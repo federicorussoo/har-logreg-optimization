@@ -8,7 +8,7 @@ Comparison of three first-order optimization methods on a multiclass logistic re
 
 The algorithms are first tested on synthetic data and then compared on a real dataset
 (Human Activity Recognition from smartphone sensors), in terms of accuracy, iterations and CPU time.
-The full analysis is in the report `Dosvaldi_Pilan_Russo.pdf`.
+The full analysis is in the report `har-optimization-paper.pdf`.
 
 ## Files
 
